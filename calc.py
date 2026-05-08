@@ -15,5 +15,6 @@ def divisao (a , b):
 def potencia (a, b):
     return ( a ** b)
 
-def raiz (a):
-    return (a ** 0,5)
+def raiz(a):
+    return a ** (1/2)
+
